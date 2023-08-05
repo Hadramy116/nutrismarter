@@ -20,6 +20,14 @@
             "wrap": true,
             "marginTop": 7.000000000000001,
             "items": [
+                  {
+                    "originalColor": true,
+                    "showText": true,
+                    "keepDefaultTitle": false,
+                    "title": " الفيتامينات و المعادن",
+                    "category": "378",
+                    "showDescription": false
+                },
                 {
                     "originalColor": true,
                     "showText": true,
@@ -141,27 +149,7 @@
             "fit": "fill",
             "marginTop": 0,
             "items": [
-                {
-                    "image": "http://nutrismarter.com/image/cache/catalog/Offers%202023/Bannaer%20ENMAX-1650x550.jpeg",
-                    "showSubcategory": false,
-                    "bannerWithProduct": true,
-                    "product": "684",
-                    "defaultShowProduct": false
-                },
-                {
-                    "image": "http://nutrismarter.com/image/cache/catalog/Offers%202023/New%20Banner-1650x550.jpeg",
-                    "showSubcategory": false,
-                    "bannerWithProduct": true,
-                    "product": "683",
-                    "defaultShowProduct": false
-                },
-                {
-                    "image": "http://nutrismarter.com/image/cache/catalog/Banners/VIT%20D-1650x550.jpg",
-                    "showSubcategory": false,
-                    "bannerWithProduct": true,
-                    "product": "657",
-                    "defaultShowProduct": false
-                },
+           
                 {
                     "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/01-ar-1650x550.jpg",
                     "bannerWithProduct": false,
