@@ -28,6 +28,14 @@
                     "category": "372",
                     "showDescription": false
                 },
+                   {
+                    "originalColor": true,
+                    "showText": true,
+                    "keepDefaultTitle": false,
+                    "title": "Multi-Vitamins & Minerals",
+                    "category": "378",
+                    "showDescription": false
+                },
                 {
                     "category": "370",
                     "showText": true,
@@ -780,6 +788,7 @@
             "categories": [
                 "389",
                 "372",
+                "378",
                 "370",
                 "373",
                 "374",
