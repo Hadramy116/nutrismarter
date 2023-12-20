@@ -743,7 +743,17 @@
             "icon":"assets/icons/tabs/icon-category.png",
             "pos":200,
             "defaultTab":false,
-            "data":"PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8Ym9keT4KCtiq2YUg2KXYutmE2KfZgiDYqti32KjZitmCINmF2KTZgtiq2Kcg2KjYs9io2Kgg2KfZhNi12YrYp9mG2KnYjCDZhti52KrYsNixINi52YYg2KfZiiDYpdiy2LnYp9isINit2KfYtdmEINio2YfYsNinINin2YTYs9io2KguCtmE2LfZhNioINmK2LHYrNmJINiy2YrYp9ix2Kkg2KfZhNmF2YjZgti6IDoKPGEgaHJlZj0iaHR0cHM6Ly9udXRyaXNtYXJ0ZXIuY29tIj4KaHR0cHM6Ly9udXRyaXNtYXJ0ZXIuY29tPC9hPgoKPC9ib2R5Pgo8L2h0bWw+Cg=="
+            "data":"<!DOCTYPE html>
+                    <html>
+                    <body>
+                    <h3>
+                    تم إغلاق تطبيق مؤقتا بسبب الصيانة، نعتذر عن اي إزعاج حاصل بهذا السبب.
+                    لطلب يرجى زيارة الموقغ :
+                    <a href="https://nutrismarter.com">
+                    https://nutrismarter.com</a>
+                    </h3>
+                    </body>
+                    </html>"
         }
     ],
     "Drawer": {
