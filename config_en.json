@@ -757,68 +757,14 @@
         "FontFamily": "Actor"
     },
     "TabBar": [
-        {
-            "key": "r59krzyqjh",
-            "layout": "home",
-            "icon": "home",
-            "fontFamily": "CupertinoIcons",
-            "pos": 100,
-            "defaultTab": false
-        },
-        {
-            "pos": 200,
-            "showChat": false,
-            "layout": "search",
-            "icon": "search",
-            "fontFamily": "CupertinoIcons",
-            "key": "dy6z7l43nh"
-        },
-        {
-            "layout": "cart",
-            "showChat": false,
-            "fontFamily": "CupertinoIcons",
-            "icon": "shopping_cart",
-            "pos": 300,
-            "key": "35tppwmb78"
-        },
-        {
-            "categoryLayout": "card",
-            "icon": "square_grid_2x2",
-            "fontFamily": "CupertinoIcons",
-            "categories": [
-                "389",
-                "372",
-                "378",
-                "370",
-                "373",
-                "374",
-                "375",
-                "371",
-                "376",
-                "377"
-            ],
-            "pos": 400,
-            "layout": "category",
-            "key": "xe68ywfqa5"
-        },
-        {
-            "key": "mvj2n0rjy9",
-            "layout": "profile",
-            "icon": "profile_circled",
-            "fontFamily": "CupertinoIcons",
-            "pos": 500,
-            "defaultTab": false,
-            "settings": [
-                "wishlist",
-                "notifications",
-                "language",
-                "order",
-                "rating",
-                "privacy",
-                "about",
-                "darkTheme"
-            ],
-            "background": "https://i.imgur.com/s60noXd.png"
+          {
+            "key":"end76inskd",
+            "layout":"page",
+            "icon":"assets/icons/tabs/icon-category.png",
+            "pos":200,
+            "defaultTab":false,
+            "url":"https://sites.google.com/view/nutri-app-closed/accueil",
+            "title":" "
         }
     ],
     "Drawer": {
