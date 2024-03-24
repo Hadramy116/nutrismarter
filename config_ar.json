@@ -743,7 +743,7 @@
         "icon":"assets/icons/tabs/icon-category.png",
         "pos":200,
         "defaultTab":false,
-        "url":"https://sites.google.com/view/nutri-app-closed/accueil",
+        "url":"https://nutrismarter.com/index.php?route=extension/mobile/home",
         "title":" "
         }
 
