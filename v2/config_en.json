@@ -142,40 +142,33 @@
             "marginTop": 0,
             "items": [
                 {
-                    "image": "http://nutrismarter.com/image/cache/catalog/Offers%202023/Bannaer%20ENMAX-1650x550.jpeg",
+                    "image": "https://nutrismarter.com/image/cache/catalog/New%20Banners%20Feb.%202024/4-1650x550.jpg",
                     "showSubcategory": false,
                     "bannerWithProduct": true,
-                    "product": "684",
                     "defaultShowProduct": false
                 },
                 {
-                    "image": "http://nutrismarter.com/image/cache/catalog/Offers%202023/New%20Banner-1650x550.jpeg",
+                    "image": "https://nutrismarter.com/image/cache/catalog/New%20Banners%20Feb.%202024/11-1650x550.jpg",
                     "showSubcategory": false,
                     "bannerWithProduct": true,
-                    "product": "683",
                     "defaultShowProduct": false
                 },
                 {
-                    "image": "http://nutrismarter.com/image/cache/catalog/Banners/VIT%20D-1650x550.jpg",
+                    "image": "https://nutrismarter.com/image/cache/catalog/New%20Banners%20Feb.%202024/2-1650x550.jpg",
                     "showSubcategory": false,
                     "bannerWithProduct": true,
-                    "product": "657",
                     "defaultShowProduct": false
                 },
                 {
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/01-ar-1650x550.jpg",
+                    "image": "https://nutrismarter.com/image/cache/catalog/New%20Banners%20Feb.%202024/6-1650x550.jpg",
                     "bannerWithProduct": false,
                     "defaultShowProduct": false,
-                    "products": [],
                     "showSubcategory": false,
-                    "category": "23"
                 },
                 {
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/01-en-1650x550.jpg",
+                    "image": "https://nutrismarter.com/image/cache/catalog/New%20Banners%20Feb.%202024/16-1650x550.jpg",
                     "showSubcategory": false,
                     "bannerWithProduct": false,
-                    "products": [],
-                    "category": "23",
                     "defaultShowProduct": false
                 },
                 {
@@ -183,63 +176,7 @@
                     "bannerWithProduct": false,
                     "defaultShowProduct": false,
                     "showSubcategory": false,
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/02-ar-1650x550.jpg"
-                },
-                {
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/02-en-1650x550.jpg",
-                    "showSubcategory": false,
-                    "products": [],
-                    "defaultShowProduct": false,
-                    "bannerWithProduct": false
-                },
-                {
-                    "bannerWithProduct": false,
-                    "products": [],
-                    "defaultShowProduct": false,
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/03-ar-1650x550.jpg",
-                    "showSubcategory": false
-                },
-                {
-                    "bannerWithProduct": false,
-                    "products": [],
-                    "showSubcategory": false,
-                    "defaultShowProduct": false,
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/03-en-1650x550.jpg"
-                },
-                {
-                    "showSubcategory": false,
-                    "defaultShowProduct": false,
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/04-ar-1650x550.jpg",
-                    "products": [],
-                    "bannerWithProduct": false
-                },
-                {
-                    "products": [],
-                    "showSubcategory": false,
-                    "bannerWithProduct": false,
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/04-en-1650x550.jpg",
-                    "defaultShowProduct": false
-                },
-                {
-                    "bannerWithProduct": false,
-                    "defaultShowProduct": false,
-                    "products": [],
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/05-ar-1650x550.jpg",
-                    "showSubcategory": false
-                },
-                {
-                    "products": [],
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/05-en-1650x550.jpg",
-                    "bannerWithProduct": false,
-                    "showSubcategory": false,
-                    "defaultShowProduct": false
-                },
-                {
-                    "image": "https://nutrismarter.com/image/cache/catalog/Web%20banners/06-ar-1650x550.jpg",
-                    "products": [],
-                    "bannerWithProduct": false,
-                    "defaultShowProduct": false,
-                    "showSubcategory": false
+                    "image": "https://nutrismarter.com/image/cache/catalog/New%20Banners%20Feb.%202024/14-1650x550.jpg"
                 }
             ],
             "upHeight": 12
