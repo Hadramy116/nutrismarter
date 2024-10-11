@@ -88,7 +88,7 @@
 "originalColor":true,
 "showText":true,
 "keepDefaultTitle":false,
-"title":"التحكم بالوزن",
+"title":"Weight Managment",
 "category":"372"
 },
 {
@@ -97,7 +97,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"370",
-"title":"العناية بالسكري"
+"title":"Diabetic Care"
 },
 {
 "showDescription":false,
@@ -105,7 +105,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"373",
-"title":"جراحة السمنة"
+"title":"Bariatric Care"
 },
 {
 "showDescription":false,
@@ -113,7 +113,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"374",
-"title":"أغذية الرياضة"
+"title":"Sport Nutrition"
 },
 {
 "showDescription":false,
@@ -121,7 +121,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"375",
-"title":"العناية بالمسنين"
+"title":"Elderly Care"
 },
 {
 "showDescription":false,
@@ -129,7 +129,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"371",
-"title":" أغذية الكلى "
+"title":" Renal  Care "
 },
 {
 "showDescription":false,
@@ -137,7 +137,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"376",
-"title":"أغذية الأطفال"
+"title":"Pediatric Care"
 },
 {
 "showDescription":false,
@@ -145,7 +145,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"377",
-"title":"أغذية الحساسية"
+"title":"Food Allergy"
 }
 ],
 "marginTop":7.000000000000001,
@@ -663,7 +663,7 @@
 "cardDesign":"card",
 "isSnapping":true,
 "showCartButton":true,
-"name":"أغذية الأطفال",
+"name":"تغذية الأطفال",
 "cartIconRadius":9,
 "category":"376",
 "backgroundWidthMode":false,
@@ -725,16 +725,6 @@
 "width":32,
 "navigator":{
 "url_launch":"https://twitter.com/nutrismarter"
-},
-{
-  "marginRight": 5,
-  "textFontSize": 14,
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TikTok_logo.svg/1200px-TikTok_logo.svg.png",
-  "useMaxWidth": false,
-  "borderRadius": 2,
-  "width": 32,
-  "navigator": {
-      "url_launch": "https://www.tiktok.com/@nutrismarter"
 },
 "height":32,
 "marginLeft":0
