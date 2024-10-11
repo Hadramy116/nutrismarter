@@ -88,7 +88,7 @@
 "originalColor":true,
 "showText":true,
 "keepDefaultTitle":false,
-"title":"Weight Managment",
+"title":"التحكم بالوزن",
 "category":"372"
 },
 {
@@ -97,7 +97,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"370",
-"title":"Diabetic Care"
+"title":"عناية السكري"
 },
 {
 "showDescription":false,
@@ -105,7 +105,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"373",
-"title":"Bariatric Care"
+"title":"جراحة السمنة"
 },
 {
 "showDescription":false,
@@ -113,7 +113,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"374",
-"title":"Sport Nutrition"
+"title":"أغذية الرياضيين"
 },
 {
 "showDescription":false,
@@ -121,7 +121,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"375",
-"title":"Elderly Care"
+"title":"العناية بالمسنين"
 },
 {
 "showDescription":false,
@@ -129,7 +129,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"371",
-"title":" Renal  Care "
+"title":"أغذية الكلي"
 },
 {
 "showDescription":false,
@@ -137,7 +137,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"376",
-"title":"Pediatric Care"
+"title":"أغذية الأطفال"
 },
 {
 "showDescription":false,
@@ -145,7 +145,7 @@
 "showText":true,
 "keepDefaultTitle":false,
 "category":"377",
-"title":"Food Allergy"
+"title":"أغذية الحساسية"
 }
 ],
 "marginTop":7.000000000000001,
