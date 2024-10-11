@@ -87,7 +87,7 @@
 "showDescription":false,
 "originalColor":true,
 "showText":true,
-"keepDefaultTitle":false,
+"keepDefaultTitle":true,
 "title":"التحكم بالوزن",
 "category":"372"
 },
